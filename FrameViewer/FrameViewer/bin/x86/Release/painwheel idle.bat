@@ -1,0 +1,1 @@
+frameViewer C:\Skullgirls\trunk\ArtAssets\painwheel\data\idle\stand_idle\frames C:\Skullgirls\trunk\ArtAssets\painwheel\palettes painwheel 64

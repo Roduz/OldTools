@@ -1,0 +1,1 @@
+frameViewer C:\Skullgirls\trunk\ArtAssets\cerebella\data\idle\stand_idle\frames C:\Skullgirls\trunk\ArtAssets\cerebella\palettes cerebella 64

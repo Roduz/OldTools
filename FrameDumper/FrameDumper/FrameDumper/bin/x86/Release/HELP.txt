@@ -1,0 +1,33 @@
+Prerequisite
+XNA 4.0 framework or run the XNALibraryInstall setup.exe
+FrameDumper needs this aswell as Frameviewer.
+
+Instructions
+
+Make a *.bat file (basically a text file with the .bat extension)
+Name it for the character and the palette used (not necessary but prefered)
+
+Edit the file to have the following:
+FrameBatchMaker "directory of character frames" "name of the pmap file" "name of the palette file" "quality of the palette to generate (64 is good)" "true/false to display the frames during the conversion"
+
+For example:
+FrameBatchMaker C:\Skullgirls\trunk\ArtAssets\filia filia filia_2p 64 true
+
+Run the .bat file, a window should come up and display the valid directories of all the animation frames then close.
+
+In the same folder a new .bat will have been created.
+"_export_(character name)_(pal number).bat"
+for example "_export_squigly_4p.bat"
+
+Run that .bat file then 2 windows should appear, first a command text window, then depending on the display flag, false for a small gray window or true for a window that has the frames shown.
+
+Do not close the windows, you may move the text window, just let it do it's thing unless;
+
+For Valentine it crashes at the operation animation, just close the gray window/frame display window (not the black text command window) then it should just pick up at the next frames. Reason is that the operation cine frames have different resolutions.
+
+Once the process has completed all the windows will close and there should be a folder in the same directory of the exe with the character name.
+Inside the folder structure is the same as the folder it grabbed the frames and they have been saved to PNGs.
+
+Tested on most characters but if there is a bug email me and I might fix it but it's least likely.
+
+ 

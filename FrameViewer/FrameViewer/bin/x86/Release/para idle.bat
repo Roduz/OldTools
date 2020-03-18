@@ -1,0 +1,1 @@
+frameViewer C:\Skullgirls\trunk\ArtAssets\parasoul\data\idle\stand_idle\frames C:\Skullgirls\trunk\ArtAssets\parasoul\palettes parasoul 64

@@ -1,0 +1,1 @@
+FrameBatchMaker C:\Skullgirls\trunk\ArtAssets\valentine valentine valentine_10p 64 false

@@ -1,0 +1,77 @@
+Usage:
+
+FrameViewer only reads either PNG or PCX files.
+
+The following methods will work with FrameViewer:
+
+-Create a .bat file with a command line and path argument, C:\Skullgirls\trunk\ArtAssets\cerebella\data\idle\stand_idle\frames C:\Skullgirls\trunk\ArtAssets\cerebella\palettes cerebella 64 for example.
+
+-Type Frameviewer and the path of the images from the command prompt.
+
+-Create a shortcut and add the path argument in the target.
+
+-For Palettes add in the directory of the palette files after the directory to the frames
+
+frameViewer C:\Skullgirls\trunk\ArtAssets\cerebella\data\idle\stand_idle\frames C:\Skullgirls\trunk\ArtAssets\cerebella\palettes 64
+
+frameViewer (Path os the frame files) (path of the palette files) (name of the pmap file without the extension) (the size you want the color table to be, higher is more gradient)
+
+Note that FrameViewer looks for a .txt file to read first and will try to parse from it, breaking if the format is not reconized.
+Lines can be commented out by typing a "#" at the begining of a line and the text should follow this format "idle01 - (1065, 1151) [4]"
+*Also it will pull the file names from there so if the name does not match with the file name, nothing will be shown.
+
+Keys:
+
+~ = Toggle Line and Shade layer smoothing (Disabled for the moment)
+
+1 = Toggle the Line layer
+
+2 = Toggle the Color layer
+
+3 = Toggle the Shade layer
+
++ = Next palette color
+
+- = Previous palette color
+
+] = Next Dye palette color, if the frame supports it.
+
+[ = Previous Dye palette color, if the frame supports it.
+
+F1 = Toggles help text off/on
+
+F2 = Toggles HUD text off/on
+
+F5 = Reload all palette colors
+
+F11 = Saves palette to a png file in the frameviewer directory.
+
+F12 = Saves frame to a png file in the frameviewer directory.
+
+Left Mouse Button = Pans the Camera
+
+Middle Mouse Button = Pans the Camera
+
+Middle Mouse Scroll = Zooms in or out
+
+Right Arrow = Next frame
+
+Left Arrow = Previous Frame
+
+Spacebar = Toggles fixed frame playback
+
+R = Adjusts the Red value of the background
+
+G = Adjusts the Green value of the background
+
+B = Adjusts the Blue value of the background
+
+F = Makes the background Black
+
+H = Makes the background White
+
+T = Resets the background to the default color
+
+P = Displays origin point (Not working at the moment)
+
+Esc = Exits FrameView (only if the draw window is up)

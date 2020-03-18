@@ -1,0 +1,1 @@
+frameViewer C:\Skullgirls\trunk\ArtAssets\beowulf\data\idle\stand_idle\frames C:\Skullgirls\trunk\ArtAssets\beowulf\palettes beowulf 32

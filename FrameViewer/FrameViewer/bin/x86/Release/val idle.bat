@@ -1,0 +1,1 @@
+frameViewer C:\Skullgirls\trunk\ArtAssets\valentine\data\idle\stand_idle\frames C:\Skullgirls\trunk\ArtAssets\valentine\palettes valentine 64

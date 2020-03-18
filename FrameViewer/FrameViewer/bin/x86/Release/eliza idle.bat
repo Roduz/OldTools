@@ -1,0 +1,1 @@
+frameViewer C:\Skullgirls\trunk\ArtAssets\eliza\data\idle\stand_idle\frames C:\Skullgirls\trunk\ArtAssets\eliza\palettes eliza 32

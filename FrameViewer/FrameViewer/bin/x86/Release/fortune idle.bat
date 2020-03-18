@@ -1,0 +1,1 @@
+frameViewer C:\Skullgirls\trunk\ArtAssets\msfortune\data\attack\supers\taildive\frames C:\Skullgirls\trunk\ArtAssets\msfortune\palettes msfortune 64

@@ -1,0 +1,1 @@
+frameViewer C:\Skullgirls\trunk\ArtAssets\boss_marie\data\idle\stand_idle\frames C:\Skullgirls\trunk\ArtAssets\boss_marie\palettes boss_marie 64

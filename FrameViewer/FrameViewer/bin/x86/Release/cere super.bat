@@ -1,0 +1,1 @@
+frameViewer C:\Skullgirls\trunk\ArtAssets\cerebella\data\attack\supers\diamond\frames C:\Skullgirls\trunk\ArtAssets\cerebella\palettes cerebella 64

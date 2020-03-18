@@ -1,0 +1,1 @@
+FrameBatchMaker C:\Skullgirls\trunk\ArtAssets\squigly squigly_FOR_GAME squigly_4p 64 false
